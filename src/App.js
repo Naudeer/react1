@@ -9,19 +9,19 @@ function App() {
     {
         id: 1,
         text: 'Wake up',
-        day: 'June 10nd at 8:00am',
+        day: 'June 15th at 8:00am',
         reminder: false,
     },
     {
         id: 2,
         text: 'Go to work',
-        day: 'June 10nd at 9:00am',
+        day: 'June 15th at 9:00am',
         reminder: false,
     },
     {
         id: 3,
         text: 'Study React',
-        day: 'June 10nd at 18:30pm',
+        day: 'June 15th at 18:30pm',
         reminder: true,
     },
 ])
